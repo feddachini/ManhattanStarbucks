@@ -6,4 +6,5 @@ Using python to: \n
 *Create a historgraph to display average distance from the next closest starbucks in Manhattan
 
 ---
-![Main]/nyc.html
+[![Main]/nyc.html
+](https://htmlpreview.github.io/?https://github.com/feddachini/ManhattanStarbucks/blob/main/nyc.html)
