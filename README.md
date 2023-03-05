@@ -6,3 +6,4 @@ Using python to:
 * Create a historgraph to display average distance from the next closest starbucks in Manhattan
 
 ---
+![image](https://github.com/feddachini/ManhattanStarbucks/blob/main/nycMap.png)
